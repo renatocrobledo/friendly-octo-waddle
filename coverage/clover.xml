@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1604013427819" clover="3.2.0">
+  <project timestamp="1604013427819" name="All files">
+    <metrics statements="36" coveredstatements="20" conditionals="22" coveredconditionals="16" methods="6" coveredmethods="3" elements="64" coveredelements="39" complexity="0" loc="36" ncloc="36" packages="1" files="2" classes="2"/>
+    <file name="correlation.js" path="/Users/renato.cacho/Documents/js_test/eloquentjs/correlation.js">
+      <metrics statements="31" coveredstatements="15" conditionals="12" coveredconditionals="8" methods="6" coveredmethods="3"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="58" count="2" type="stmt"/>
+      <line num="59" count="180" type="stmt"/>
+      <line num="63" count="180" type="stmt"/>
+      <line num="64" count="180" type="cond" truecount="2" falsecount="0"/>
+      <line num="65" count="180" type="cond" truecount="2" falsecount="0"/>
+      <line num="66" count="180" type="stmt"/>
+      <line num="68" count="2" type="stmt"/>
+      <line num="73" count="0" type="stmt"/>
+      <line num="75" count="0" type="stmt"/>
+      <line num="78" count="0" type="stmt"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="80" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="91" count="0" type="stmt"/>
+      <line num="96" count="0" type="stmt"/>
+      <line num="98" count="0" type="stmt"/>
+      <line num="99" count="0" type="stmt"/>
+      <line num="101" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="102" count="0" type="stmt"/>
+      <line num="103" count="0" type="stmt"/>
+      <line num="105" count="0" type="stmt"/>
+      <line num="107" count="0" type="stmt"/>
+      <line num="125" count="1" type="stmt"/>
+      <line num="126" count="90" type="cond" truecount="4" falsecount="0"/>
+      <line num="128" count="5" type="stmt"/>
+      <line num="133" count="1" type="stmt"/>
+    </file>
+    <file name="squirel_journal.js" path="/Users/renato.cacho/Documents/js_test/eloquentjs/squirel_journal.js">
+      <metrics statements="5" coveredstatements="5" conditionals="10" coveredconditionals="8" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="96" count="1" type="cond" truecount="5" falsecount="1"/>
+      <line num="97" count="1" type="stmt"/>
+      <line num="98" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="99" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

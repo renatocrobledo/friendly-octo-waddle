@@ -1,0 +1,20 @@
+{
+  "name": "eloquentjs",
+  "version": "1.0.0",
+  "description": "some exercises of the book",
+  "main": "correlation.js",
+  "scripts": {
+    "test": "jest",
+    "debug": "node --inspect-brk node_modules/.bin/jest --runInBand"
+  },
+  "author": "Renato",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": ["html"],
+    "verbose": true    
+  }
+}
